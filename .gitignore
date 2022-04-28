@@ -1,0 +1,24 @@
+/files/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+.idea
+# Distribution / packaging
+.Python
+*.egg
+MANIFEST
+
+
+# Django stuff:
+*.log
+local_settings.py
+
+# pyenv
+.python-version
+
+*.DS_Store
